@@ -85,7 +85,6 @@ Implement secure authentication mechanisms.
 Style the application for a more polished look.
 
 
-![Screenshot 2024-12-02 091000](https://github.com/user-attachments/assets/842deb37-3d6a-48aa-83dc-a5bf36abccf2)
+![Screenshot 2024-12-02 091000](https://github.com/user-attachments/assets/034f8c63-0f6f-4a06-bb80-3efeeb037e3b)
+![Screenshot 2024-12-02 091014](https://github.com/user-attachments/assets/a856cf69-4296-4aeb-a55f-d231c58e1a94)
 
-
-![Screenshot 2024-12-02 091014](https://github.com/user-attachments/assets/5ea40209-3cb6-4c9e-9585-7d75218c117c)
