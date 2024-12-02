@@ -10,7 +10,7 @@ This project demonstrates the use of React's Context API for state management. I
 
 ## Project Structure
 
-```plaintext
+
 src/
 ├── components/
 │   ├── Login.jsx          # Login form component
