@@ -79,12 +79,6 @@ Login.jsx: Allows users to input and submit their credentials.
 Profile.jsx: Displays a welcome message if a user is logged in or prompts them to log in.
 
 
-Future Enhancements
-Add form validation for login inputs.
-Implement secure authentication mechanisms.
-Style the application for a more polished look.
-
-
 ![Screenshot 2024-12-02 091000](https://github.com/user-attachments/assets/034f8c63-0f6f-4a06-bb80-3efeeb037e3b)
 ![Screenshot 2024-12-02 091014](https://github.com/user-attachments/assets/a856cf69-4296-4aeb-a55f-d231c58e1a94)
 
